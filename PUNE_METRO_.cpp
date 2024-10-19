@@ -203,7 +203,7 @@ void Book::booking() {
 
 void Book::contact_us() {
   cout << "Contact Us:\n";
-  cout << "Phone: 1800-123-456\n";
+  cout << "Phone: 1800-2398-3451\n";
   cout << "Email: Pune_metro@support.com\n";
 
   cout << "\nDo you want to go to the home menu (YES/yes): ";
